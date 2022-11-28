@@ -6,3 +6,4 @@ Popular leetcode questions and its solutions.
 
 1. [Add binary](https://leetcode.com/problems/add-binary/)
 2. [Add strings](https://leetcode.com/problems/add-strings/)
+3. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
