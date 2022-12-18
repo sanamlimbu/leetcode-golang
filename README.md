@@ -10,3 +10,4 @@ Popular leetcode questions and its solutions.
 4. [Best time to buy and sell stock ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 5. [Maximum subarray](https://leetcode.com/problems/maximum-subarray/)
 6. [Binary search](https://leetcode.com/problems/binary-search/)
+7. [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
