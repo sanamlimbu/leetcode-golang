@@ -9,3 +9,4 @@ Popular leetcode questions and its solutions.
 3. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 4. [Best time to buy and sell stock ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 5. [Maximum subarray](https://leetcode.com/problems/maximum-subarray/)
+6. [Binary search](https://leetcode.com/problems/binary-search/)
