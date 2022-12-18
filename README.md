@@ -11,3 +11,4 @@ Popular leetcode questions and its solutions.
 5. [Maximum subarray](https://leetcode.com/problems/maximum-subarray/)
 6. [Binary search](https://leetcode.com/problems/binary-search/)
 7. [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
+8. [Reverse string](https://leetcode.com/problems/reverse-string/)
